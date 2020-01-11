@@ -44,11 +44,13 @@
 </div>
 
 
-## What is Modmail?
+## What is this?
 
-Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.
+This is a fork of [Modmail](https://github.com/kyb3r/modmail), which adds the ability to use private plugins.
 
-This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on **[Patreon](https://www.patreon.com/kyber)**, cool benefits included! 
+## Configurations
+
+Grab a token from [here](https://github.com/settings/tokens/new) and put it int the config file with the name of `GITHUB_TOKEN`.
 
 ## How does it work?
 
