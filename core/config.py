@@ -113,6 +113,8 @@ class ConfigManager:
         # Logging
         "log_level": "INFO",
         "enable_plugins": True,
+        # github - for downloading private repos
+        "github_token": None
     }
 
     colors = {"mod_color", "recipient_color", "main_color", "error_color"}
